@@ -1,0 +1,6 @@
+C:\Users\Nikita\source\repos\klav\glasnie\bin\Debug\glasnie.exe.config
+C:\Users\Nikita\source\repos\klav\glasnie\bin\Debug\glasnie.exe
+C:\Users\Nikita\source\repos\klav\glasnie\bin\Debug\glasnie.pdb
+C:\Users\Nikita\source\repos\klav\glasnie\obj\Debug\glasnie.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\source\repos\klav\glasnie\obj\Debug\glasnie.exe
+C:\Users\Nikita\source\repos\klav\glasnie\obj\Debug\glasnie.pdb

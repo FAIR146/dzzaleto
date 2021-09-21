@@ -1,0 +1,7 @@
+C:\Users\Nikita\source\repos\klav\LetterA\bin\Debug\LetterA.exe.config
+C:\Users\Nikita\source\repos\klav\LetterA\bin\Debug\LetterA.exe
+C:\Users\Nikita\source\repos\klav\LetterA\bin\Debug\LetterA.pdb
+C:\Users\Nikita\source\repos\klav\LetterA\obj\Debug\LetterA.csprojAssemblyReference.cache
+C:\Users\Nikita\source\repos\klav\LetterA\obj\Debug\LetterA.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\source\repos\klav\LetterA\obj\Debug\LetterA.exe
+C:\Users\Nikita\source\repos\klav\LetterA\obj\Debug\LetterA.pdb

@@ -1,0 +1,6 @@
+C:\Users\Nikita\source\repos\klav\probeli_s_vivodom\bin\Debug\probeli_s_vivodom.exe.config
+C:\Users\Nikita\source\repos\klav\probeli_s_vivodom\bin\Debug\probeli_s_vivodom.exe
+C:\Users\Nikita\source\repos\klav\probeli_s_vivodom\bin\Debug\probeli_s_vivodom.pdb
+C:\Users\Nikita\source\repos\klav\probeli_s_vivodom\obj\Debug\probeli_s_vivodom.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\source\repos\klav\probeli_s_vivodom\obj\Debug\probeli_s_vivodom.exe
+C:\Users\Nikita\source\repos\klav\probeli_s_vivodom\obj\Debug\probeli_s_vivodom.pdb

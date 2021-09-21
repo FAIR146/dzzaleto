@@ -1,0 +1,7 @@
+C:\Users\Nikita\source\repos\klav\probeli\bin\Debug\probeli.exe.config
+C:\Users\Nikita\source\repos\klav\probeli\bin\Debug\probeli.exe
+C:\Users\Nikita\source\repos\klav\probeli\bin\Debug\probeli.pdb
+C:\Users\Nikita\source\repos\klav\probeli\obj\Debug\probeli.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\source\repos\klav\probeli\obj\Debug\probeli.exe
+C:\Users\Nikita\source\repos\klav\probeli\obj\Debug\probeli.pdb
+C:\Users\Nikita\source\repos\klav\probeli\obj\Debug\probeli.csprojAssemblyReference.cache

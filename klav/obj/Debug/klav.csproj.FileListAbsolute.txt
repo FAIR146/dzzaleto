@@ -1,0 +1,7 @@
+C:\Users\Nikita\source\repos\klav\klav\bin\Debug\klav.exe.config
+C:\Users\Nikita\source\repos\klav\klav\bin\Debug\klav.exe
+C:\Users\Nikita\source\repos\klav\klav\bin\Debug\klav.pdb
+C:\Users\Nikita\source\repos\klav\klav\obj\Debug\klav.csprojAssemblyReference.cache
+C:\Users\Nikita\source\repos\klav\klav\obj\Debug\klav.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\source\repos\klav\klav\obj\Debug\klav.exe
+C:\Users\Nikita\source\repos\klav\klav\obj\Debug\klav.pdb
